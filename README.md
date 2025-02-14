@@ -23,24 +23,14 @@
 
 ### 🔗 **Live Demo**  
 **See it in action!** 👇  
-🌐 [**Visit Sumesta Creative Portfolio**](https://sumesta-creative.netlify.app)  
+🌐 [**Visit Sumesta Creative Portfolio**](https://putuagus76.github.io/Portfolio2025/index.html)  
 
 ---
 
 ### 📬 **Let’s Collaborate!**  
 **Got a project in mind?** Let’s turn ideas into reality!  
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/sumesta-creative](https://linkedin.com/in/sumesta-creative)  
+- 📧 **Email**: [putuagussumerta123@gmail.com](mailto:putuagussumerta123@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/sumesta-creative](https://www.linkedin.com/in/putu-agus-sumerta-yasa-b3782720a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 **Thanks for stopping by!** 🎨  
-*Stay curious, keep creating.*  
-
----
-
-### **Why This Works**:  
-- **Clear Purpose**: Instantly communicates the project’s goal.  
-- **Visual Appeal**: Emojis and headers break up text, making it scannable.  
-- **Action-Oriented**: Direct links to the live site and contact details encourage engagement.  
-- **Personality**: The closing line adds a human touch.  
-
-Simply replace placeholder links (email, LinkedIn, live demo URL) with your client’s actual details. 🚀
+*Stay curious, keep creating.
